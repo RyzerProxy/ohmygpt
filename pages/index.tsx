@@ -139,7 +139,7 @@ const Home: NextPage = () => {
             className={classNames(spaceGrotesk.className)}
             style={{ color: client.appThemeColor }}
           >
-            OhMyGPT
+            Celega
           </span>
         </a>
       </footer>
